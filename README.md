@@ -17,11 +17,8 @@ I'm Caden, a 15 year old student from Singapore who's extremely passionate in ar
 <hr>
 
 ### Currently Working On:
-- Codecademy courses
-- O Levels
-- VJC DSA
-- Odometry 
-- PID
+- JC
+- Waiting on competitions..
 
 ### Find me at...
 [My Website!](https://cadentanjy.wixsite.com/dsaportfolio) <br>
